@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  player_class: one
+  player_class_path: one
+  ability: one
+
+two:
+  player_class: two
+  player_class_path: two
+  ability: two

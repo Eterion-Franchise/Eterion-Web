@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  agenda: MyText
+  what_happened: MyText
+  saga: one
+  date_played: 2025-01-21
+  duration_hrs: 1
+  duration_min: 1
+
+two:
+  title: MyString
+  agenda: MyText
+  what_happened: MyText
+  saga: two
+  date_played: 2025-01-21
+  duration_hrs: 1
+  duration_min: 1

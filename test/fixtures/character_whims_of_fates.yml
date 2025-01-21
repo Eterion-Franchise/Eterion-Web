@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  character: one
+  whims_of_fate: one
+
+two:
+  character: two
+  whims_of_fate: two
